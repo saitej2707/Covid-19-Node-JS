@@ -1,0 +1,5 @@
+get http://localhost:3000/states/1
+
+
+##
+get http://localhost:3000/districts/
